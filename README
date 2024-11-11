@@ -2,6 +2,8 @@
 
 This is a dataset regarding stats for both individual players, as well as teams in various different metrics. Some examples being the expected goals, individual red card penalties, and top goalscorers. The data was taken from Fotmob.
 
+
+
  | Variables                              |    
  | -------------------------------------- | 
  | accurate_cross_team                    | 
