@@ -59,6 +59,6 @@ This is a dataset regarding stats for both individual players, as well as teams 
  | team_ratings                           |
  | total_red_card_team                    |
  | total_yel_card_team                    |
-| touches_in_opp_box_team                |
-| won_tackle_team                        |
+ | touches_in_opp_box_team                |
+ | won_tackle_team                        |
 
