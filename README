@@ -2,61 +2,61 @@
 
 This is a dataset regarding stats for both individual players, as well as teams in various different metrics. Some examples being the expected goals, individual red card penalties, and top goalscorers. The data was taken from Fotmob.
 
-| Variables                              |    
-| -------------------------------------- | 
-| accurate_cross_team                    | 
-| accurate_long_balls_team               | 
-| accurate_pass_team                     |
-| big_chance_missed_team                 |
-| big_chance_team                        |
-| clean_sheet_team                       |
-| corner_taken_team                      |
-| effective_clearance_team               |
-| expected_goals_conceded_team           |
-| expected_goals_team                    |
-| fk_foul_lost_team                      |
-| goals_conceded_team_match              |
-| interception_team                      |
-| ontarget_scoring_att_team              |
-| penalty_conceded_team                  |
-| penalty_won_team                       |
-| player_accurate_long_balls             |
-| player_accurate_passes                 |      
-| player_big_chances_created             |
-| player_big_chances_missed              |
-| player_clean_sheets                    |
-| player_contests_won                    |
-| player_effective_clearances            |
-| player_expected_assists                |
-| player_expected_assists_per_90         |
-| player_expected_goals                  |
-| player_expected_goals_on_target        |
-| player_expected_goals_per_90           |
-| player_fouls_committed                 |
-| player_goals_conceded                  |
-| player_goals_per_90                    |
-| player_interceptions                   |
-| player_on_target_scoring_attempts      |
-| player_outfielder_blocks               |
-| player_penalties_conceded              |
-| player_penalties_won                   |
-| player_player_ratings                  |
-| player_possessions_won_attacking_third |
-| player_red_cards                       |
-| player_saves_made                      |
-| player_tackles_won                     |
-| player_top_assists                     |
-| player_top_scorers                     |
-| player_total_assists_in_attack         |
-| player_total_scoring_attempts          |
-| player_yellow_cards                    |
-| possession_percentage_team             |
-| possession_won_att_3rd_team            |
-| saves_team                             |
-| team_goals_per_match                   |
-| team_ratings                           |
-| total_red_card_team                    |
-| total_yel_card_team                    |
+ | Variables                              |    
+ | -------------------------------------- | 
+ | accurate_cross_team                    | 
+ | accurate_long_balls_team               | 
+ | accurate_pass_team                     |
+ | big_chance_missed_team                 |
+ | big_chance_team                        |
+ | clean_sheet_team                       |
+ | corner_taken_team                      |
+ | effective_clearance_team               |
+ | expected_goals_conceded_team           |
+ | expected_goals_team                    |
+ | fk_foul_lost_team                      |
+ | goals_conceded_team_match              |
+ | interception_team                      |
+ | ontarget_scoring_att_team              |
+ | penalty_conceded_team                  |
+ | penalty_won_team                       |
+ | player_accurate_long_balls             |
+ | player_accurate_passes                 |      
+ | player_big_chances_created             |
+ | player_big_chances_missed              |
+ | player_clean_sheets                    |
+ | player_contests_won                    |
+ | player_effective_clearances            |
+ | player_expected_assists                |
+ | player_expected_assists_per_90         |
+ | player_expected_goals                  |
+ | player_expected_goals_on_target        |
+ | player_expected_goals_per_90           |
+ | player_fouls_committed                 |
+ | player_goals_conceded                  |
+ | player_goals_per_90                    |
+ | player_interceptions                   |
+ | player_on_target_scoring_attempts      |
+ | player_outfielder_blocks               |
+ | player_penalties_conceded              |
+ | player_penalties_won                   |
+ | player_player_ratings                  |
+ | player_possessions_won_attacking_third |
+ | player_red_cards                       |
+ | player_saves_made                      |
+ | player_tackles_won                     |
+ | player_top_assists                     |
+ | player_top_scorers                     |
+ | player_total_assists_in_attack         |
+ | player_total_scoring_attempts          |
+ | player_yellow_cards                    |
+ | possession_percentage_team             |
+ | possession_won_att_3rd_team            |
+ | saves_team                             |
+ | team_goals_per_match                   |
+ | team_ratings                           |
+ | total_red_card_team                    |
+ | total_yel_card_team                    |
 | touches_in_opp_box_team                |
 | won_tackle_team                        |
 
