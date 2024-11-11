@@ -1,5 +1,6 @@
 #Premier League 23/24 Team and Player stats by Kamran Ali
-This is a dataset regarding stats for both individual players, as well as teams in various different metrics. Some examples being the expected goals, individual red card penalties, and top goalscorers.
+
+This is a dataset regarding stats for both individual players, as well as teams in various different metrics. Some examples being the expected goals, individual red card penalties, and top goalscorers. The data was taken from Fotmob.
 
 | Variables                              |    
 | -------------------------------------- | 
